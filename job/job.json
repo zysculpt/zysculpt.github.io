@@ -1,0 +1,239 @@
+[
+  {
+    "id": "JOB-001",
+    "slug": "senior-ui-ux-designer-tech-innovations-inc",
+    "background_image": "https://res.cloudinary.com/dci6pt0ut/image/upload/v1744854251/pexels-pok-rie-33563-1031200-min_vfwg1t.jpg",
+    "logo": "https://res.cloudinary.com/dci6pt0ut/image/upload/v1744855189/blue-zy-square_rc5eri.png",
+    "title": "Senior UI/UX Designer",
+    "company": "Tech Innovations Inc.",
+    "description": "We're looking for a talented Senior UI/UX Designer to join our product team. You'll be responsible for creating beautiful, intuitive interfaces that solve real user problems and drive business growth.",
+    "responsibilities": [
+      "Lead the design of new features",
+      "Conduct user research",
+      "Create wireframes",
+      "Collaborate with engineers",
+      "Maintain design system"
+    ],
+    "requirements": [
+      "5+ years in UI/UX design",
+      "Strong portfolio",
+      "Figma/Sketch proficiency",
+      "User research experience",
+      "Communication skills"
+    ],
+    "skills": [
+      "UI Design",
+      "UX Research",
+      "Figma",
+      "Prototyping",
+      "Design Systems",
+      "User Flows",
+      "Accessibility"
+    ],
+    "meta_title": "Senior UI/UX Designer Job at Tech Innovations | Zysculpt",
+    "meta_description": "Design beautiful interfaces for Tech Innovations. Competitive salary (₦750K), onsite in Lagos. 5+ years experience required. Apply now!",
+    "meta_image": "https://res.cloudinary.com/dci6pt0ut/image/upload/v1744926475/Copy_of_zysculpt_square_20250417_224556_0000-min_xst6u3.png",
+    "salary": "₦750,000",
+    "mode": "On-site",
+    "location": "Lagos",
+    "job_type": "Full-time",
+    "experience_level": "Senior-level",
+    "industry": "Science & Technology",
+    "status": "Active",
+    "deadline": "Closes April 19th",
+    " date_posted": "2025-04-17T20:39:00.000Z",
+    "expiry_date": null,
+    "application_link": "https://tech-innovations.com/careers/apply/123",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior UI/UX Designer",
+      "description": "We're looking for a talented Senior UI/UX Designer...",
+      "datePosted": "2024-04-17",
+      "validThrough": "2024-05-15",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Tech Innovations Inc.",
+        "logo": "https://res.cloudinary.com/.../blue-zy-square_rc5eri.png"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Lagos",
+          "addressRegion": "NG"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "NGN",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 750000,
+          "maxValue": 900000,
+          "unitText": "MONTH"
+        }
+      }
+    },
+    "priority": 0
+  },
+  {
+    "id": "JOB-002",
+    "slug": "motion-graphics-designer-pied-piper",
+    "background_image": "https://res.cloudinary.com/dci6pt0ut/image/upload/v1744854251/pexels-pok-rie-33563-1031200-min_vfwg1t.jpg",
+    "logo": "https://res.cloudinary.com/dci6pt0ut/image/upload/v1744854243/pexels-mahmoud-alsakhnini-5767275-5939895-min_cu6pnp.jpg",
+    "title": "Motion Graphics Designer",
+    "company": "Pied Piper",
+    "description": "Create engaging motion graphics for our tech products. Requires 3+ years experience.",
+    "responsibilities": [
+      "Lead the design of new features",
+      "Conduct user research",
+      "Create wireframes",
+      "Collaborate with engineers",
+      "Maintain design system"
+    ],
+    "requirements": [
+      "5+ years in UI/UX design",
+      "Strong portfolio",
+      "Figma/Sketch proficiency",
+      "User research experience",
+      "Communication skills"
+    ],
+    "skills": [
+      "UI Design",
+      "UX Research",
+      "Figma",
+      "Prototyping",
+      "Design Systems",
+      "User Flows",
+      "Accessibility"
+    ],
+    "meta_title": "Senior UI/UX Designer Job at Tech Innovations | Zysculpt",
+    "meta_description": "Design beautiful interfaces for Tech Innovations. Competitive salary (₦750K), onsite in Lagos. 5+ years experience required. Apply now!",
+    "meta_image": "https://res.cloudinary.com/dci6pt0ut/image/upload/v1744926475/Copy_of_zysculpt_square_20250417_224556_0000-min_xst6u3.png",
+    "salary": "₦350,000",
+    "mode": "Remote",
+    "location": "Anywhere",
+    "job_type": "Full-time",
+    "experience_level": "Mid-level",
+    "industry": "Science & Technology",
+    "status": "Active",
+    "deadline": "Open until filled",
+    " date_posted": "2025-04-17T20:39:00.000Z",
+    "expiry_date": null,
+    "application_link": "https://tech-innovations.com/careers/apply/123",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior UI/UX Designer",
+      "description": "We're looking for a talented Senior UI/UX Designer...",
+      "datePosted": "2024-04-17",
+      "validThrough": "2024-05-15",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Tech Innovations Inc.",
+        "logo": "https://res.cloudinary.com/.../blue-zy-square_rc5eri.png"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Lagos",
+          "addressRegion": "NG"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "NGN",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 750000,
+          "maxValue": 900000,
+          "unitText": "MONTH"
+        }
+      }
+    },
+    "priority": 0
+  },
+  {
+    "id": "JOB-003",
+    "slug": "content-marketer-adonis",
+    "background_image": "https://res.cloudinary.com/dci6pt0ut/image/upload/v1744854251/pexels-pok-rie-33563-1031200-min_vfwg1t.jpg",
+    "logo": null,
+    "title": "Content Marketer",
+    "company": "Adonis",
+    "description": "Create engaging motion graphics for our tech products. Requires 3+ years experience.",
+    "responsibilities": [
+      "Lead the design of new features",
+      "Conduct user research",
+      "Create wireframes",
+      "Collaborate with engineers",
+      "Maintain design system"
+    ],
+    "requirements": [
+      "5+ years in UI/UX design",
+      "Strong portfolio",
+      "Figma/Sketch proficiency",
+      "User research experience",
+      "Communication skills"
+    ],
+    "skills": [
+      "UI Design",
+      "UX Research",
+      "Figma",
+      "Prototyping",
+      "Design Systems",
+      "User Flows",
+      "Accessibility"
+    ],
+    "meta_title": "Senior UI/UX Designer Job at Tech Innovations | Zysculpt",
+    "meta_description": "Design beautiful interfaces for Tech Innovations. Competitive salary (₦750K), onsite in Lagos. 5+ years experience required. Apply now!",
+    "meta_image": "https://res.cloudinary.com/dci6pt0ut/image/upload/v1744926475/Copy_of_zysculpt_square_20250417_224556_0000-min_xst6u3.png",
+    "salary": "₦350,000",
+    "mode": "Hybrid",
+    "location": "Adamawa",
+    "job_type": "Contract",
+    "experience_level": "Entry-level",
+    "industry": "Accounting & Finance",
+    "status": "Active",
+    "deadline": "Open until filled",
+    " date_posted": "2025-04-17T20:39:00.000Z",
+    "expiry_date": null,
+    "application_link": "https://tech-innovations.com/careers/apply/123",
+    "structured_data": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior UI/UX Designer",
+      "description": "We're looking for a talented Senior UI/UX Designer...",
+      "datePosted": "2024-04-17",
+      "validThrough": "2024-05-15",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Tech Innovations Inc.",
+        "logo": "https://res.cloudinary.com/.../blue-zy-square_rc5eri.png"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Lagos",
+          "addressRegion": "NG"
+        }
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "NGN",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 750000,
+          "maxValue": 900000,
+          "unitText": "MONTH"
+        }
+      }
+    },
+    "priority": 0
+  }
+]
