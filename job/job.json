@@ -1,79 +1,82 @@
-{
-  "jobs": [
-    {
-      "id": "job_001",
-      "title": "Motion Graphics Designer",
-      "company": "Pied Piper",
-      "logo": "https://logo.clearbit.com/piedpiper.com",
-      "type": "Onsite",
-      "experience": "Mid-level",
-      "employment": "Full-time",
-      "deadline": "Closes April 8th",
-      "location": "Lagos",
-      "posted": "2025-04-24T05:46:00.000Z",
-      "description": "Create engaging motion graphics for our tech products. Requires 3+ years experience."
-    },
-    {
-      "id": "job_002",
-      "title": "Content Marketer",
-      "company": "Adonis",
-      "type": "Remote",
-      "experience": "Open to all",
-      "employment": "Internship",
-      "deadline": "Open until filled",
-      "location": "Anywhere",
-      "posted": "2025-04-24T05:46:00.000Z",
-      "description": "Experience with diverse AI tools and readiness to learn required."
-    },
-    {
-      "id": "job_003",
-      "title": "Sales Associate",
-      "company": "Buttery Coda",
-      "logo": "https://logo.clearbit.com/butterycoda.com",
-      "type": "Hybrid",
-      "experience": "Entry-level",
-      "employment": "Contract",
-      "deadline": "Closes May 1st",
-      "location": "Lagos",
-      "posted": "2025-04-24T05:46:00.000Z",
-      "description": "Must be a self-starter with previous proof of success in similar role"
-    },
-    {
-      "id": "job_004",
-      "title": "Frontend Developer",
-      "company": "Hooli",
-      "type": "Remote",
-      "experience": "Senior-level",
-      "employment": "Full-time",
-      "deadline": "Closes April 30th",
-      "location": "Anywhere",
-      "posted": "2025-04-24T05:46:00.000Z",
-      "description": "React/TypeScript expert needed for our core product team."
-    },
-    {
-      "id": "job_005",
-      "title": "DevOps Engineer",
-      "company": "Amazon",
-      "logo": "https://logo.clearbit.com/amazon.com",
-      "type": "Onsite",
-      "experience": "Mid-level",
-      "employment": "Full-time",
-      "deadline": "Closes May 15th",
-      "location": "Lagos",
-      "posted": "2025-04-24T05:46:00.000Z",
-      "description": "AWS infrastructure management and CI/CD pipeline development."
-    },
-    {
-      "id": "job_006",
-      "title": "Product Manager",
-      "company": "TechSolutions Inc",
-      "type": "Hybrid",
-      "experience": "Senior-level",
-      "employment": "Full-time",
-      "deadline": "Closes April 20th",
-      "location": "Abuja",
-      "posted": "2025-04-24T05:46:00.000Z",
-      "description": "Lead cross-functional teams to deliver exceptional products."
-    }
-  ]
-}
+[
+  {
+    "id": "job_001",
+    "title": "Motion Graphics Designer",
+    "company": "Pied Piper",
+    "logo": "https://logo.clearbit.com/piedpiper.com",
+    "slug": "motion-graphics-designer-pied-piper",
+    "type": "Onsite",
+    "experience": "Mid-level",
+    "employment": "Full-time",
+    "deadline": "Closes April 8th",
+    "location": "Lagos",
+    "posted": "2025-04-24T05:46:00.000Z",
+    "excerpt": "Create engaging motion graphics for our tech products. Requires 3+ years experience."
+  },
+  {
+    "id": "job_002",
+    "title": "Content Marketer",
+    "company": "Adonis",
+    "slug": "content-marketer-adonis",
+    "type": "Remote",
+    "experience": "Open to all",
+    "employment": "Internship",
+    "deadline": "Open until filled",
+    "location": "Anywhere",
+    "posted": "2025-04-24T05:46:00.000Z",
+    "excerpt": "Experience with diverse AI tools and readiness to learn required."
+  },
+  {
+    "id": "job_003",
+    "title": "Sales Associate",
+    "company": "Buttery Coda",
+    "logo": "https://logo.clearbit.com/butterycoda.com",
+    "slug": "sales-associate-buttery-coda",
+    "type": "Hybrid",
+    "experience": "Entry-level",
+    "employment": "Contract",
+    "deadline": "Closes May 1st",
+    "location": "Lagos",
+    "posted": "2025-04-24T05:46:00.000Z",
+    "excerpt": "Must be a self-starter with previous proof of success in similar role"
+  },
+  {
+    "id": "job_004",
+    "title": "Frontend Developer",
+    "company": "Hooli",
+    "type": "Remote",
+    "experience": "Senior-level",
+    "employment": "Full-time",
+    "deadline": "Closes April 30th",
+    "location": "Anywhere",
+    "posted": "2025-04-24T05:46:00.000Z",
+    "excerpt": "React/TypeScript expert needed for our core product team."
+  },
+  {
+    "id": "job_005",
+    "title": "DevOps Engineer",
+    "company": "Amazon",
+    "logo": "https://logo.clearbit.com/amazon.com",
+    "slug": "devops-engineer-amazon",
+    "type": "Onsite",
+    "experience": "Mid-level",
+    "employment": "Full-time",
+    "deadline": "Closes May 15th",
+    "location": "Lagos",
+    "posted": "2025-04-24T05:46:00.000Z",
+    "excerpt": "AWS infrastructure management and CI/CD pipeline development."
+  },
+  {
+    "id": "job_006",
+    "title": "Product Manager",
+    "company": "TechSolutions Inc",
+    "slug": "product-manager-techsolutions-inc",
+    "type": "Hybrid",
+    "experience": "Senior-level",
+    "employment": "Full-time",
+    "deadline": "Closes April 20th",
+    "location": "Abuja",
+    "posted": "2025-04-24T05:46:00.000Z",
+    "excerpt": "Lead cross-functional teams to deliver exceptional products."
+  }
+]
