@@ -1,21 +1,47 @@
-name: Deploy to GitHub Pages
+name: Deploy AI Cover Letter Generator
 
 on:
   push:
     branches: [ main ]
+  workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
     steps:
-      - uses: actions/checkout@v4
-      
-      - name: Inject HF Token
-        run: |
-          sed -i "s|HF_TOKEN_PLACEHOLDER|${{ secrets.HF_TOKEN }}|g" netlify/functions/generate-letter.js
-          
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build project
+        run: npm run build
+
+      - name: Inject HF Token
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          # Replace placeholder in serverless function
+          sed -i "s|HF_TOKEN_PLACEHOLDER|$HF_TOKEN|g" netlify/functions/generate-letter.js
+          echo "Token injected securely"
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: ./out
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
