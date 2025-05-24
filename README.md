@@ -19,10 +19,6 @@ It’s a bit of a long story, but essentially, we lost access to our original Gi
 1. You should be automatically redirected to the new URL
 2. If not, please visit: [https://zysculptlabs.github.io](https://zysculptlabs.github.io)
 
-## For Contributors
-
-All existing issues and pull requests have been migrated to the new repository. Please direct all new contributions there.
-
 ## Need Help?
 
 If you have any questions about the move or the project:
